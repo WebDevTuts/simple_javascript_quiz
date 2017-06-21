@@ -19,4 +19,11 @@ function submitAnswers() {
 
   // Set correct answers
   var answers = ["b", "a", "d", "b", "d"];
+
+  // Check answers
+  for ( i = 1; i <= total; i++ ) {
+    if (eval('q' + i) == answers[i - 1]) {
+      score++;
+    }
+  }
 }
