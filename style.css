@@ -36,3 +36,11 @@ section {
 footer {
   text-align: center;
 }
+
+input[type='submit'] {
+  background: #F06226;
+  border: 0;
+  color: #FFF;
+  padding: 10px 15px;
+  cursor: pointer;
+}
