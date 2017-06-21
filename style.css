@@ -4,3 +4,11 @@ body {
   font-family: 'Arial', sans-serif;
   font-size: 14px;
 }
+
+#container {
+  width: 60%;
+  background: #199FDB;
+  margin: 20px auto;
+  overflow: auto;
+  padding: 25px;
+}
