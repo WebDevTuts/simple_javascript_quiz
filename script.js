@@ -16,4 +16,7 @@ function submitAnswers() {
       return false;
     }
   }
+
+  // Set correct answers
+  var answers = ["b", "a", "d", "b", "d"];
 }
