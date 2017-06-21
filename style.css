@@ -1,5 +1,5 @@
 body {
-  background: #F06226;
+  background: #264B5B;
   color: #FFF;
   font-family: 'Arial', sans-serif;
   font-size: 14px;
@@ -38,7 +38,7 @@ footer {
 }
 
 input[type='submit'] {
-  background: #F06226;
+  background: #264B5B;
   border: 0;
   color: #FFF;
   padding: 10px 15px;
@@ -46,7 +46,7 @@ input[type='submit'] {
 }
 
 #results h3 {
-  background: #F06226;
+  background: #264B5B;
   padding: 10px;
   margin: 10px 0;
 }
